@@ -23,3 +23,4 @@ proximal
 opencv-python
 huggingface_hub
 torchvision
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
